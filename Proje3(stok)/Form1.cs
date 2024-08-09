@@ -118,6 +118,9 @@ namespace Proje3_stok_
             cbRenk.Text = listView1.SelectedItems[0].SubItems[4].Text;
             txtAdet.Text = listView1.SelectedItems[0].SubItems[5].Text;
 
+
+
+
         }
 
         

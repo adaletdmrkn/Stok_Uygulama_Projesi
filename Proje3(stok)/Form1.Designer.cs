@@ -77,6 +77,7 @@
             this.columnHeader4,
             this.columnHeader5,
             this.columnHeader6});
+
             this.listView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.listView1.ForeColor = System.Drawing.SystemColors.Control;
             this.listView1.HideSelection = false;
